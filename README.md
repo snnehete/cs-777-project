@@ -4,7 +4,7 @@ The data subdirectory contains the associated dataset. The docs subdirectory con
 
 # How to run  
 
-First, unzip the file dataset.zip in the data subdirectory. Alternatively, the dataset may be downloaded from [Google Cloud](https://storage.cloud.google.com/shrunkhala_nehete_a3/dataset.csv?showFTMessage=false).
+First, download the data subdirectory and unzip the [dataset.zip](data/dataset.zip) file into the data subdirectory. Alternatively, the dataset may be downloaded from [Google Cloud](https://storage.cloud.google.com/shrunkhala_nehete_a3/dataset.csv?showFTMessage=false).
 
 Then the project can be executed by submitting the task to spark-submit. It takes two arguments - the location of the dataset and the location of taxi_zone_lookup.csv. In this case, it will be executed as:
 
