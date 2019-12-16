@@ -1,17 +1,12 @@
-# pyspark-template
+# Taxi Trip Duration Prediction using Linear Regression
 
-This is a pyspark project template
-
-
-## Describe here your project
-
-
-This is a very simple HelloWorld example in pyspark. 
-
-
+Project description in pyspark. 
 
 
 # How to run  
+
+first unzip
+
 
 Run the task 1 by submitting the task to spark-submit. 
 
