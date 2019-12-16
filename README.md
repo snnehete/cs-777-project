@@ -5,7 +5,7 @@ The data subdirectory contains the associated dataset. The docs subdirectory con
 
 # How to run  
 
-First, unzip the file dataset.zip in the data subdirectory.
+First, unzip the file dataset.zip in the data subdirectory. Alternatively, the dataset may be downloaded from [Google Cloud](https://storage.cloud.google.com/shrunkhala_nehete_a3/dataset.csv?showFTMessage=false).
 
 
 Run the project by submitting the task to spark-submit. 
