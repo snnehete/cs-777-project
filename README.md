@@ -1,37 +1,17 @@
 # Taxi Trip Duration Prediction using Linear Regression
 
-Project description in pyspark. 
+The data subdirectory contains the associated dataset. The docs subdirectory contains the report and supporting files. The file term_project.py is the main file of the projec to be run in pyspark. 
 
 
 # How to run  
 
-first unzip
+First, unzip the file dataset.zip in the data subdirectory.
 
 
-Run the task 1 by submitting the task to spark-submit. 
-
-
-```python
-
-spark-submit main_task1.py 
-
-```
-
-
+Run the project by submitting the task to spark-submit. 
 
 ```python
 
-spark-submit main_task2.py 
+spark-submit term_project.py data/dataset.csv data/taxi_zone_lookup.csv 
 
 ```
-
-
-
-```python
-
-spark-submit main_task3.py 
-
-```
-
-
-
